@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="70px" height="70px" viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
+<symbol  id="Content-18" viewBox="-8 -5.031 16 10.062">
+	<polygon fill="#7F9E71" points="2,-3.031 6,-3.031 6,-0.031 2,-0.031 	"/>
+	<polygon fill="#7F9E71" points="1,-0.031 -4,-0.031 -4,-1.031 1,-1.031 	"/>
+	<polygon fill="#7F9E71" points="1,-2.031 -4,-2.031 -4,-3.031 1,-3.031 	"/>
+	<polygon fill="#7F9E71" points="6,2.969 -4,2.969 -4,0.969 6,0.969 	"/>
+	<path fill="#7F9E71" d="M-6,5.031v-2h-2v-6.062c0-1.104,0.898-2,2-2H6c1.104,0,2,0.896,2,2v8.062H-6z M7-3.031c0-0.55-0.449-1-1-1
+		H-6c-0.549,0-1,0.45-1,1v5.062h1v-5.062h1v7.062H7V-3.031z"/>
+</symbol>
+<symbol  id="Objects-66" viewBox="-7.999 -8 15.997 16">
+	<path fill="#9B9270" d="M-3.889,5.302L-4.596,6.01c-0.194,0.193-0.513,0.193-0.707,0c-0.194-0.194-0.194-0.514,0-0.708l0.707-0.706
+		c0.194-0.195,0.512-0.195,0.707,0C-3.693,4.788-3.693,5.107-3.889,5.302z"/>
+	<path fill="#9B9270" d="M-6.499,1h-1c-0.274,0-0.5-0.225-0.5-0.5S-7.772,0-7.499,0h1c0.275,0,0.5,0.225,0.5,0.5S-6.223,1-6.499,1z"
+		/>
+	<path fill="#9B9270" d="M7.499,0.003h-1c-0.274,0-0.5-0.226-0.5-0.5c0-0.276,0.226-0.5,0.5-0.5h1c0.275,0,0.5,0.224,0.5,0.5
+		C7.999-0.223,7.773,0.003,7.499,0.003z"/>
+	<path fill="#9B9270" d="M6.008,5.302c-0.195,0.194-0.514,0.194-0.707,0L4.595,4.596c-0.195-0.195-0.195-0.514,0-0.707
+		c0.193-0.194,0.512-0.194,0.707,0l0.707,0.707C6.203,4.788,6.203,5.107,6.008,5.302z"/>
+	<path fill="#9B9270" d="M0.5,5.998c0.139,0,0.264,0.056,0.354,0.148C0.944,6.235,1,6.361,1,6.5v1C1,7.775,0.775,8,0.5,8
+		c-0.207,0-0.385-0.127-0.46-0.307L0,7.498l0.001-1C0,6.222,0.226,5.998,0.5,5.998z"/>
+	<path fill="#9B9270" d="M-0.001,4c-2.208,0-4-1.791-4-4c0-1.477,0.81-2.752,2-3.446V-5h4v1.554c1.19,0.694,2,1.971,2,3.446
+		C3.999,2.209,2.208,4-0.001,4z M1.496-2.581l-0.497-0.29v-0.575V-4h-2v0.554v0.575l-0.496,0.29C-2.439-2.034-3.001-1.069-3.001,0
+		c0,1.654,1.346,3,3,3c1.655,0,3-1.346,3-3C2.999-1.069,2.437-2.034,1.496-2.581z"/>
+	<path fill="#9B9270" d="M-2.001-7h1.03l-0.03-0.125c0-0.482,0.451-0.875,1-0.875c0.55,0,1,0.393,1,0.875L0.97-7h1.028v1h-4
+		L-2.001-7L-2.001-7z"/>
+</symbol>
+<g id="Layer_2" display="none">
+	
+		<radialGradient id="SVGID_1_" cx="26.5" cy="11" r="35" gradientTransform="matrix(1 0 0 -1 8.5 46)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#A8A8A8;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<rect display="inline" fill="url(#SVGID_1_)" width="70" height="70"/>
+</g>
+<g id="Layer_1_1_">
+	
+		<use xlink:href="#Content-18"  width="16" height="10.062" id="XMLID_2_" x="-8" y="-5.031" transform="matrix(3.1246 0 0 -3.1246 35.0005 35)" display="none" overflow="visible"/>
+	
+		<use xlink:href="#Objects-66"  width="15.997" height="16" id="XMLID_1_" x="-7.999" y="-8" transform="matrix(3.1255 0 0 -3.1255 34.998 35)" overflow="visible"/>
+</g>
+</svg>

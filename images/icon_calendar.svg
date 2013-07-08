@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px"
+	 height="70px" viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
+<g id="Calendar">
+</g>
+<g id="Date" display="none">
+	<polygon display="inline" fill="#C1C1C1" points="16.606,26.449 53.204,26.449 16.606,54.801 	"/>
+	
+		<text transform="matrix(1 0 0 1 35.4751 52.043)" display="inline" fill="#C1C1C1" font-family="'HelveticaNeue-Medium'" font-size="14">12</text>
+</g>
+<g id="Date_1_">
+	<g>
+		<g id="Time-2">
+			<path fill="#D1D1D1" d="M52.922,21.242v-4.888c0-0.897-0.727-1.631-1.629-1.631h-6.516c-0.902,0-1.629,0.732-1.629,1.631v4.888
+				H26.854v-4.888c0-0.897-0.729-1.631-1.63-1.631h-6.518c-0.9,0-1.63,0.732-1.63,1.631v4.888H10.56v34.034h48.879V21.242H52.922z
+				 M46.406,17.984h3.258v6.517h-3.258V17.984z M20.337,17.984h3.257v6.517h-3.257V17.984z M56.182,52.018H13.82v-21h42.36
+				L56.182,52.018L56.182,52.018z"/>
+		</g>
+		<rect x="13.82" y="31.018" fill="#8A8E8A" width="42.362" height="21"/>
+	</g>
+	<text transform="matrix(1 0 0 1 16.7227 46.625)" opacity="0.9"><tspan x="0" y="0" fill="#636363" font-family="'TradeGothicLTStd-BdCn20'" font-size="14">25 </tspan><tspan x="15.54" y="0" fill="#D1D1D1" font-family="'TradeGothicLTStd-BdCn20'" font-size="14">DEC</tspan></text>
+</g>
+</svg>

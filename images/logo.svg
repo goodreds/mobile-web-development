@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="70px" height="70px" viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
+<g id="Flower">
+	<g>
+		<path opacity="0.5" fill="#894D9D" enable-background="new    " d="M35,35c0,0-12.484-12.5,0-25C35,10,47.568,22.43,35,35z"/>
+		<path opacity="0.5" fill="#E40486" enable-background="new    " d="M35,35c0,0-17.06-4.583-12.5-21.651
+			C22.499,13.349,39.6,17.829,35,35z"/>
+		<path opacity="0.5" fill="#FDE900" enable-background="new    " d="M35,35c0,0-17.065,4.562-21.651-12.5
+			C13.349,22.5,30.397,17.83,35,35z"/>
+		<path opacity="0.5" fill="#8BC53F" enable-background="new    " d="M35,35c0,0-12.499,12.482-25,0C10,35,22.43,22.43,35,35z"/>
+		<path opacity="0.5" fill="#5CB947" enable-background="new    " d="M35,35c0,0-4.581,17.061-21.649,12.501
+			C13.35,47.501,17.829,30.4,35,35z"/>
+		<path opacity="0.5" fill="#5DBA52" enable-background="new    " d="M35,35c0,0,4.562,17.066-12.499,21.65
+			C22.501,56.65,17.83,39.604,35,35z"/>
+		<path opacity="0.5" fill="#6FC49C" enable-background="new    " d="M35,35c0,0,12.484,12.497,0.002,25
+			C35.001,60,22.433,47.57,35,35z"/>
+		<path opacity="0.5" fill="#4BC7F1" enable-background="new    " d="M35,35c0,0,17.062,4.58,12.502,21.648
+			C47.502,56.648,30.402,52.17,35,35z"/>
+		<path opacity="0.5" fill="#358ACA" enable-background="new    " d="M35,35c0,0,17.068-4.565,21.652,12.497
+			C56.65,47.497,39.605,52.168,35,35z"/>
+		<path opacity="0.5" fill="#306BB3" enable-background="new    " d="M35,35c0,0,12.499-12.487,25-0.002
+			C60,34.998,47.572,47.564,35,35z"/>
+		<path opacity="0.5" fill="#4752A2" enable-background="new    " d="M35,35c0,0,4.582-17.063,21.65-12.502
+			C56.648,22.498,52.17,39.596,35,35z"/>
+		<path opacity="0.5" fill="#7A51A0" enable-background="new    " d="M35,35c0,0-4.564-17.068,12.499-21.652
+			C47.498,13.348,52.167,30.395,35,35z"/>
+	</g>
+</g>
+<g id="Hexagon">
+	<polygon fill="#FDFFEE" points="26,29.813 35.003,24.597 44,29.803 44,40.216 35.009,45.404 26.009,40.219 	"/>
+</g>
+<g id="Cube_1_" display="none">
+	<g id="Cube" display="inline">
+		<g id="XMLID_1_">
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				55.01,35.052 68.665,27.099 55.01,19.198 41.335,27.099 			"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				55,50.803 54.99,50.803 41.335,42.893 41.335,27.099 55.01,35.052 68.57,27.172 			"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				68.665,27.099 68.665,42.838 55,50.793 			"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				55,35.022 55,50.793 55,50.803 			"/>
+		</g>
+	</g>
+</g>
+</svg>

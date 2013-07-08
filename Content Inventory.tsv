@@ -1,0 +1,14 @@
+Header:
+	Incorporating ideogram and slider button to show the naviagtion elements when on smaller screens
+
+Navigation:
+	Inline on larger screens and stacked vertically on smaller screens
+
+Articles:
+	Article view containing featured image, headline, date, excerpt/full text, category
+
+Related:
+	Next 4 articles from the same category - containing feautred image, headline and excerpt
+
+Footer:
+	Containing copyright info and links to twitter, ADN and Github

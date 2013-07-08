@@ -1,0 +1,205 @@
+/* @override 
+	http://www.goodreds.net/prototype/styles/left_nav.css */
+
+.wrap {
+  position: relative;
+  -webkit-transition: all 0.1s ease-out;  
+  -moz-transition: all 0.1s ease-out;
+  -ms-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+.wrap.active {
+  left: 14em;
+}
+	
+a.menu-link {
+    float: left;
+    display: block;
+	text-transform: uppercase;
+	padding: 0;
+	text-indent: -9999px;
+	width: 50px;
+	height: 45px;
+	background: url(../images/menu_slide.svg) no-repeat 1em 1.1em;
+	font-family: 'proxima-nova';
+}
+
+nav[role=navigation] {
+	clear: both;
+	overflow: hidden;
+	border-right: 1px solid #ffffff;
+	-moz-box-shadow: 1px 0 4px #d1d0d0;
+	-webkit-box-shadow: 1px 0 4px #d1d0d0;
+	box-shadow: 1px 0 4px #d1d0d0;
+	background: url(../images/noise.png) repeat #5c6566;
+}
+.js nav[role=navigation] {
+  width: 14em;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -14em;
+}
+nav[role=navigation] ul {
+  margin: 0;
+  padding: 0;
+/*  border-top: 1px solid #a4a092;
+  border-bottom: 1px solid #a4a092;*/
+}
+
+input#searchBox {
+	font: 0.625em 'proxima-nova';
+	width: 90%;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	border-style: none;
+	color: #fff;
+	background-color: #4b5153;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 0.5em 1.5em;
+	height: 2.9em;
+	margin: 1em;
+}
+
+nav[role=navigation] li a {
+	display: block;
+	color: #e4e4e4;
+	text-shadow: 0 0 2px #3a3939;
+	text-transform: uppercase;
+	font: 0.8125em 'proxima-nova';
+	letter-spacing: 0.1em;
+	border-top: 1px solid rgb(102, 111, 112);
+/*	border-bottom: 1px solid rgba(233, 235, 235, 0.1);*/
+	padding: 1em;
+}
+nav[role=navigation] li a:hover {
+	background-color: #495051;
+	text-shadow: none;
+}
+
+input.button {
+    -webkit-appearance: none;
+}
+
+#mc-embedded-subscribe-form {
+	font: 0.8125em 'proxima-nova';
+	border-top: 1px solid rgb(102, 111, 112);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.26);
+	padding: 1em;
+	background-color: #4b5253;
+}
+
+#mc-embedded-subscribe-form div.mc-field-group input {
+	width: 100%;
+	margin-bottom: 1em;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	border-style: none;
+	color: #fff;
+	background-color: #5c6466;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 0.5em 1.5em;
+	height: 2.9em;
+}
+
+input#mc-embedded-subscribe.button {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border-style: none;
+	height: 2.9em;
+	font: 0.75em 'proxima-nova';
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: #fff;
+	text-shadow: 1px 1px 0 #9b9b21;
+	background-color: #97a444;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+}
+
+input#mc-embedded-subscribe.button:hover {
+	background-color: #aab755;
+}
+
+#mc-embedded-subscribe-form h2 {
+	font-size: 0.8125em;
+	color: #e4e4e4;
+	text-shadow: 0 0 2px #3a3939;
+	padding-bottom: 1em;
+	margin: 0;
+	padding-top: 0;
+}
+
+.lorem {
+	clear: both;
+}
+
+#backToTop {
+	position: fixed;
+	bottom:0;
+	-moz-border-radius-topleft: 15px;
+	-webkit-border-top-left-radius: 15px;
+	border-top-left-radius: 15px;
+	padding: 0;
+	text-indent: -9999px;
+	width: 50px;
+	height: 45px;
+	background: url(../images/back_to_top.svg) no-repeat 1em 1.1em rgba(208, 207, 207, 0.14);
+	font-family: 'proxima-nova';
+	right: 0;
+}
+
+#backToTop#hover {
+	
+}
+
+ul#external {
+	padding: 1em;
+}
+
+ul#external li {
+	display: inline-block;
+}
+
+ul#external li a {
+	border-style: none;
+	padding: 0 0.5em 0 0;
+}
+
+ul#external li a:hover {
+	background-color: transparent;
+	opacity: 0.5;
+}
+
+@media screen and (min-width: 41.25em) {
+  a.menu-link {
+     display: none;
+  }
+  .js nav[role=navigation] {
+    max-width: none;
+    position: static;
+    width: auto;
+  }
+  .wrap.active {
+    left: 0;
+  }
+  nav[role=navigation] ul {
+    margin: 0;
+    border: 0;
+  }
+  
+  nav[role=navigation] li {
+    display: inline-block;
+    margin: 0 0.25em;
+  }
+  nav[role=navigation] li a {
+    border: 0;
+  }
+}

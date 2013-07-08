@@ -1,0 +1,20 @@
+.wireframe #page {
+	paddin g-top: 3.5em;
+}
+
+.wireframe .menu {
+	display: none;
+}
+
+.wireframe #header {
+	margin-top: 5em;
+}
+
+.wireframe nav {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	border-top: 1px solid gainsboro;
+}
